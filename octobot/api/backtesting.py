@@ -14,7 +14,7 @@
 #  You should have received a copy of the GNU General Public
 #  License along with OctoBot. If not, see <https://www.gnu.org/licenses/>.
 import octobot.backtesting as backtesting
-import octobot_backtesting.constants as constants
+import octobot_backtesting.constants as constant
 
 
 def create_independent_backtesting(config,
